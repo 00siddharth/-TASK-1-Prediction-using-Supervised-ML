@@ -1,4 +1,9 @@
-# PREDICTION USING SUPERVISED ML
+# AUTHOR- SIDDHARTH SINHA
+# About-
+Hello reader! I'm Siddharth sinha an computer science student at SRMIST  and a Coder by Heart!
+I am a growing candidate in learning from day-to-day experiences. I give my 100 % in whatever I do to accomplish the goals.
+
+# TASK 1 PREDICTION USING SUPERVISED ML
 
 -Predict the percentage of an student based on the no. of study hours. This is a simple linear regression task as it involves just 2 variables.
 
